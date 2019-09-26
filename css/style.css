@@ -1,0 +1,112 @@
+body,
+html {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.main-page {
+    height: 100%;
+    width: 100%;
+    overflow: auto;
+    background-color: black;
+}
+
+.container {
+    height: 80%;
+    width: 50%;
+    margin: 75px auto;
+    overflow: auto;
+    background-color: skyblue;
+}
+
+.part-1 {
+    height: 100%;
+    width: 45%;
+    float: left;
+    padding: 20px;
+    background-color: #09e1e1;
+}
+
+.part-2 {
+    height: 100%;
+    width: 55%;
+    float: left;
+    padding: 20px;
+    background-color: white;
+}
+
+.box {
+    height: 100%;
+    width: 100%;
+}
+
+.logo {
+    height: 50px;
+    width: 30%;
+    background-color: white;
+    margin: 20px 0px;
+}
+
+.title {
+    height: 30px;
+    width: 70%;
+    margin: 25px 0px 10px 0px;
+    background-color: white;
+}
+
+.collections {
+    height: 10px;
+    width: 40%;
+    background-color: blue;
+}
+
+.img {
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    margin: 60px 0px;
+}
+
+.money {
+    height: 50px;
+    width: 50%;
+    margin: 20px auto;
+    background-color: white;
+}
+
+.vertical-menu {
+    width: 40%;
+    overflow: auto;
+    margin: 40px auto;
+}
+
+.menus {
+    width: 25%;
+    float: left;
+    padding: 7px;
+}
+
+.menu {
+    height: 18px;
+    width: 100%;
+    overflow: auto;
+    background-color: black;
+}
+.title-block{
+    width: 100%;
+    margin: 20px 10px;
+}
+.box-title{
+    height:30px;
+    width: 50%;
+    background-color: black;
+}
+.new-label{
+    padding: 10px;
+    
+}
