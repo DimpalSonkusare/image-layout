@@ -97,16 +97,174 @@ html {
     overflow: auto;
     background-color: black;
 }
-.title-block{
+
+.title-box {
     width: 100%;
-    margin: 20px 10px;
+    margin: 20px 0px 10px 0px;
+    overflow: auto;
 }
-.box-title{
-    height:30px;
-    width: 50%;
+
+.title-line {
+    width: 80%;
+    float: left;
+    padding: 10px;
+    overflow: auto;
+}
+
+.title-text {
+    height: 20px;
+    width: 60%;
+    float: left;
     background-color: black;
 }
-.new-label{
+
+.label {
+    padding: 5px;
+    width: 20%;
+    float: left;
+    margin: 0px 10px;
+    background-color: #fd5f00;
+}
+
+.new {
+    height: 10px;
+    width: 100%;
+    background-color: white;
+}
+
+.share {
+    width: 10%;
     padding: 10px;
-    
+    float: left;
+    margin: 0px 35px 0px 0px;
+}
+
+.share-icon {
+    height: 20px;
+    width: 100%;
+    background-color: gray;
+}
+
+.mint-grey {
+    height: 10px;
+    width: 20%;
+    background-color: gray;
+    margin: 0px 10px;
+}
+
+.rates {
+    width: 25%;
+    margin: 10px 10px;
+    overflow: auto;
+}
+
+.stars {
+    width: 15%;
+    float: left;
+    padding: 2px;
+}
+
+.star {
+    height: 10px;
+    width: 100%;
+    background-color: #fd5f00;
+}
+
+.description-box{
+    width: 100%;
+    margin: 40px 0px;
+}
+.description-title-box{
+    height: 25px;
+    width: 70%;
+    padding: 2px 0px;
+    background-color: white;
+}
+.discription{
+    width: 22.22%;
+    float: left;
+    padding: 10px;
+}
+.discription-name{
+    height: 15px;
+    width: 100%;
+    background-color: darkgray;
+}
+.disc-para{
+    height: 100px;
+    width: 100%;
+    background-color: gray;
+    margin: 10px 0px;
+}
+.color{
+    width: 100%;
+    float: left;
+    padding: 10px;
+}
+.color-name{
+    height: 15px;
+    width: 20%;
+    background-color: darkgray;
+}
+.colours {
+    width: 40%;
+    margin: 10px 10px;
+    overflow: auto;
+}
+
+.colour {
+    width: 25%;
+    float: left;
+    padding: 0px 20px 0px 0px;
+}
+
+.colour-name {
+    height: 15px;
+    width: 100%;
+    background-color: #fd5f00;
+}
+.numbers {
+    width: 70%;
+    margin: 50px 10px 20px 10px;
+    overflow: auto;
+}
+
+.number {
+    width: 20%;
+    float: left;
+    padding: 0px 30px 0px 0px;
+}
+
+.no{
+    height: 15px;
+    width: 100%;
+    background-color: lightgray;
+}
+
+.quantity{
+    width: 40%;
+    margin: 10px 0px;
+    padding: 5px;
+}
+.num{
+    height: 20px;
+    width: 50%;
+    margin: 30px 5px;
+    background-color: lightgray;
+}
+.add{
+    width: 100%;
+    margin: 10px 0px;
+    padding: 10px 0x;
+    overflow: auto;
+}
+.cart{
+    width: 50%;
+    float: left;
+    padding: 10px 30px 10px 0px;
+}
+.wishlist{
+    height: 40px;
+    width: 100%;
+    background-color: #fd5f00;
 }
