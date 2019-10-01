@@ -243,25 +243,24 @@ html {
 
 .quantity{
     width: 40%;
-    margin: 10px 0px;
+    margin: 5px 0px;
     padding: 5px;
 }
 .num{
     height: 20px;
     width: 50%;
-    margin: 30px 5px;
+    margin: 30px 5px 0px 5px;
     background-color: lightgray;
 }
 .add{
     width: 100%;
     margin: 10px 0px;
-    padding: 10px 0x;
     overflow: auto;
 }
 .cart{
     width: 50%;
     float: left;
-    padding: 10px 30px 10px 0px;
+    padding: 5px 30px 5px 0px;
 }
 .wishlist{
     height: 40px;
